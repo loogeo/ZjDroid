@@ -3,6 +3,8 @@ ZjDroid
 
 Android app dynamic reverse tool based on Xposed framework.
 
+百度研究员贾志军开发的ZJDroid
+http://blog.csdn.net/androidsecurity/article/details/38121585
 
 一、ZjDroid工具介绍
 
